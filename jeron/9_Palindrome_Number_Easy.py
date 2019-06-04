@@ -11,13 +11,14 @@ class Solution:
         if x < 0:
             return False
         copy = str(x)
-        
+
         if str(x) == copy[::-1]:
             return True
 else:
     return False
 
-# Afterthoughts: it works I guess
+# Afterthoughts:
+# it works I guess
 
 # Results:
 # Runtime: 80 ms, faster than 77.47% of Python3 online submissions for Palindrome Number.

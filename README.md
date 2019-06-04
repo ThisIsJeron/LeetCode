@@ -41,10 +41,10 @@ class Solution {
 ```
 
 ## Schedule
-- [ ] **06/03/2019**: [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - Easy
-- [ ] **06/03/2019**: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
-- [ ] **06/04/2019**: [To Lower Case](https://leetcode.com/problems/to-lower-case/) - Easy
-- [ ] **06/04/2019**: [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - Easy
+- [ x ] **06/03/2019**: [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - Easy
+- [ x ] **06/03/2019**: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
+- [ x ] **06/04/2019**: [To Lower Case](https://leetcode.com/problems/to-lower-case/) - Easy
+- [ x ] **06/04/2019**: [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - Easy
 - [ ] **06/05/2019**: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
 - [ ] **06/05/2019**: [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) - Medium
 - [ ] **06/06/2019**: [N-Repeated Element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) - Easy
