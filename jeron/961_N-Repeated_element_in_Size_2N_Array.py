@@ -1,4 +1,4 @@
-# 929. 961. N-Repeated Element in Size 2N Array - Easy
+# 961. N-Repeated Element in Size 2N Array - Easy
 
 # Initial thoughts:
 # initially thought of checking number of times an item shows up and seeing if

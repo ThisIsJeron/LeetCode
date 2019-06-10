@@ -51,7 +51,7 @@ class Solution {
 - [ ] **06/06/2019**: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
 - [ ] **06/07/2019**: [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) - Easy
 - [ ] **06/07/2019**: [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - Easy
-- [ ] **06/08/2019**: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Easy
+- [x] **06/08/2019**: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Easy
 - [ ] **06/08/2019**: [Hamming Distance](https://leetcode.com/problems/hamming-distance) - Easy
 - [ ] **06/09/2019**: [DI String Match](https://leetcode.com/problems/di-string-match) - Easy
 - [ ] **06/09/2019**: [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) - Easy
